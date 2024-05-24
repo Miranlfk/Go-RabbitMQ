@@ -1,1 +1,3 @@
 # Go-RabbitMQ
+
+This project illustrates a simple producer and consumer message queue service using Golang and RabbitMQ. RabbitMQ enables applications to communicate by sending and receiving messages. It stores, routes, and delivers messages from producers (senders) to consumers (receivers) based on a set of rules defined by the AMQP protocol and this project is a starting point to explore use of RabbitMQ with Golang.
